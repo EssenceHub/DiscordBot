@@ -1,0 +1,5 @@
+Two word story if 2 messages are sent back to back it bugs out
+
+Two word story needs to recognise the division and multiplication symbol
+
+game channels don't work without the message delete permission
